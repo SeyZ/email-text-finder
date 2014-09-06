@@ -1,6 +1,6 @@
 {
   "name": "email-text-finder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get all emails from a text.",
   "main": "index.js",
   "scripts": {
